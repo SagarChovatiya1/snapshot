@@ -121,3 +121,7 @@ display: block;
 .container:hover .button {
   opacity: 1;
 }
+
+#page-snap{
+  margin-bottom: 100px;
+}
